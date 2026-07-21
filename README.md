@@ -4,6 +4,7 @@ This project aims to filter real qso's from the APRSDroid logs and convert them 
 The code is in Phyton and the UI is pretty rough. 
 Only spanish as of now. More on that later
 
+Pre-Requisitos : Phyton instalado en la computadora
 
 Lógica de Conversión
 Un archivo de registro (log) de APRSdroid generalmente contiene líneas de texto con marcas de tiempo (timestamp) seguidas del paquete TNC2 en bruto. Por ejemplo:
