@@ -4,6 +4,10 @@ This project aims to filter real qso's from the APRSDroid logs and convert them 
 The code is in Phyton and the UI is pretty rough. 
 Only spanish as of now. More on that later
 
+Para simplemente ejecutar : Descargar aprs2adif_gui.exe , funciona en Windows.
+
+Para transportar y/o modificar:
+
 Pre-Requisitos : Phyton instalado en la computadora
 
 Lógica de Conversión
